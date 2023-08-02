@@ -8,28 +8,19 @@
 <p align="left">
 
 <img src="https://komarev.com/ghpvc/?username=dimitr-remicio&label=Profile%20views&color=0e75b6&style=flat" alt="dimitr-remicio" /></p>
+<div>
+        
+- 🔭 I’m currently working on [Yersi](https://github.com/Dimitr-Remicio/Yersi)
+  <br />
+- 🌱 I’m currently learning **Frameworks**
+</div>
+<br />
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-        - 🔭 I’m currently working on
-        [Yersi](https://github.com/Dimitr-Remicio/Yersi)
-        <br />- 🌱 I’m currently learning **Frameworks**
-      </p>
-      <br />
-      <h2 align="left">Connect with me:</h2>
-      <p align="left">
-        <a
-          href="https://www.linkedin.com/in/dimitr-remicio-4b039017b/"
-          target="blank"
-        >
-          <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="dimitr remicio"
-            height="30"
-            width="40"
-          />
-        </a>
-      </p>
-      <p
+<a href="https://www.linkedin.com/in/dimitr-remicio-4b039017b/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitr remicio" height="30" width="40" /> 
+</a> </p>
+<p
         align="left"
         style={{
           display: "flex",
