@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=dimitr-remicio&label=Profile%20views&color=0e75b6&style=flat" alt="dimitr-remicio" /></p>
 <div>
         
-- 🔭 I’m currently working on [Star Wars Api](https://github.com/Dimitr-Remicio/SWAPI-Project)
+- 🔭 I’m currently working on My[Portfolio](https://github.com/Dimitr-Remicio/)
   <br />
 - 🌱 I’m currently learning **Frameworks**
 </div>
